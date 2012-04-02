@@ -1,0 +1,2 @@
+version=3
+http://www.thc.org/thc-amap/ .*/amap-(.*)\.tar\.gz
