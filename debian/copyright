@@ -1,37 +1,52 @@
-This work was packaged for Debian by:
-
-    Raphaël Hertzog <hertzog@debian.org> on Mon, 02 Apr 2012 13:34:23 +0000
-
-It was downloaded from:
-
-    <url://example.com>
-
-Upstream Author(s):
-
-    <put author's name and email here>
-    <likewise for another author>
-
-Copyright:
-
-    <Copyright (C) YYYY Firstname Lastname>
-    <likewise for another author>
-
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: amap
+Upstream-Contact: amap-dev@thc.org
+Source: http://www.thc.org/thc-amap/
+Disclaimer:
+ The license has multiple advertising clauses and forbids usages
+ for illegal activities.
+Copyright: 2003-2005 van Hauser and DJ RevMoon
 License:
+ 1. This software comes with no warrenty or promised features. If it works
+ for you - fine. It just comes "AS-IS", which means as a bunch of bits and
+ bytes.
+ .
+ 2. Anyone may use this software and pass it on to other persons or
+ companies as long as it is not charged for! (except for a small
+ transfer/medium fee)
+ .
+ 3. This tool may *NOT* be used for illegal purpose. Please check the law
+ which affects your doing. I will have got no liability for any damage
+ etc. done with this tool legally or illegaly.
+ .
+ 4. If this tool is used while providing a commercial service (e.g. as
+ part of a penetration test) the report has to state the tools name and
+ version, and additionally the authors (van Hauser and Dj RevMoon) and the
+ distribution homepage (http://www.thc.org).
+ .
+ 5. If this tool is used within a commercial tool (being called out of
+ such a tool or being incorporated), the report generated has to state the
+ tools name and version, and additionally the authors (van Hauser and Dj
+ RevMoon) and the distribution homepage (http://www.thc.org). A tool is
+ "commercial" if it either costs money to purchase it, has a license fee,
+ and/or has costs for upgrades.  Additionally, a commercial version or
+ license etc. must be made available to the author free of charge.
+ .
+ 6. In all other respects the GPL 2.0 applies.
 
-    <Put the license of the package here indented by 4 spaces>
+Files: pcre-3.9/*
+License: GPL2+
 
-The Debian packaging is:
-
-    Copyright (C) 2012 Raphaël Hertzog <hertzog@debian.org>
-
-# Please chose a license for your packaging work. If the program you package
-# uses a mainstream license, using the same license is the safest choice.
-# Please avoid to pick license terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.
-# If you just want it to be GPL version 3, leave the following lines in.
-
-and is licensed under the GPL version 3,
-see "/usr/share/common-licenses/GPL-3".
-
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
+License: GPL-2+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ version 2 can be found in /usr/share/common-licenses/GPL-2.
