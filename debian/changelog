@@ -1,0 +1,5 @@
+amap (5.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Mon, 02 Apr 2012 13:34:23 +0000
