@@ -35,7 +35,8 @@ License:
  6. In all other respects the GPL 2.0 applies.
 
 Files: pcre-3.9/*
-License: GPL2+
+Copyright: 1997-2001 University of Cambridge
+License: GPL-2+
 
 License: GPL-2+
  This program is free software; you can redistribute it and/or modify
