@@ -1,1 +1,2 @@
 add-destdir-support
+fix-appdef-lookup-dir
