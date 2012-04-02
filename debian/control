@@ -1,15 +1,21 @@
 Source: amap
-Section: unknown
+Section: net
 Priority: extra
 Maintainer: Raphaël Hertzog <hertzog@debian.org>
-Build-Depends: debhelper (>= 7.0.50~), autotools-dev
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev, libssl-dev
 Standards-Version: 3.8.4
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/amap.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/amap.git;a=summary
+Homepage: http://www.thc.org/thc-amap/
+Vcs-Git: ssh://git@git.kali.org/packages/amap.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/amap.git;a=summary
 
 Package: amap
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: next-generation scanning tool for pentesters
+ AMAP stands for Application MAPper. It is a next-generation scanning
+ tool for pentesters. It attempts to identify applications even if they
+ are running on a different port than normal.
+ .
+ It also identifies non-ascii based applications. This is achieved by
+ sending trigger packets, and looking up the responses in a list of
+ response strings.
