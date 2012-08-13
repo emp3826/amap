@@ -1,3 +1,9 @@
+amap (5.4-2) kali; urgency=low
+
+  * Upload with no changes to rebuild in kali/wheezy environment.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Mon, 13 Aug 2012 22:20:44 +0200
+
 amap (5.4-1) kali; urgency=low
 
   * Initial release.
