@@ -13,3 +13,4 @@ override_dh_auto_install:
 	mkdir -p debian/amap/usr/share debian/amap/etc
 	mv debian/amap/usr/man debian/amap/usr/share/
 	mv debian/amap/usr/etc debian/amap/etc/amap
+	mv debian/kali-amap.desktop usr/share/applications/
