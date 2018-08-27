@@ -1,3 +1,9 @@
+amap (5.4-2kali1) kali-dev; urgency=medium
+
+  * Add kali marker to the version string.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Mon, 27 Aug 2018 16:38:28 +0200
+
 amap (5.4-2) kali; urgency=low
 
   * Upload with no changes to rebuild in kali/wheezy environment.
