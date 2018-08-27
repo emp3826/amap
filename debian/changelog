@@ -13,6 +13,7 @@ amap (5.4-3) kali; urgency=low
 amap (5.4-2kali1) kali-dev; urgency=medium
 
   * Add kali marker to the version string.
+  * Cleanup the packaging.
 
  -- Raphaël Hertzog <hertzog@debian.org>  Mon, 27 Aug 2018 16:38:28 +0200
 
