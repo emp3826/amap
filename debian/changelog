@@ -1,3 +1,10 @@
+amap (5.4-4kali1) kali-dev; urgency=medium
+
+  * Add kali marker to the version string.
+  * Cleanup the packaging.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Mon, 27 Aug 2018 16:38:28 +0200
+
 amap (5.4-4) kali; urgency=low
 
   * Removed desktop file per new menu structure
@@ -9,13 +16,6 @@ amap (5.4-3) kali; urgency=low
   * Added desktop file
 
  -- Mati Aharoni <muts@kali.org>  Sat, 01 Dec 2012 10:16:26 -0500
-
-amap (5.4-2kali1) kali-dev; urgency=medium
-
-  * Add kali marker to the version string.
-  * Cleanup the packaging.
-
- -- Raphaël Hertzog <hertzog@debian.org>  Mon, 27 Aug 2018 16:38:28 +0200
 
 amap (5.4-2) kali; urgency=low
 
