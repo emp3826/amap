@@ -1,11 +1,12 @@
 Source: amap
 Section: net
-Priority: extra
-Maintainer: Raphaël Hertzog <hertzog@debian.org>
-Build-Depends: debhelper (>= 7.0.50~), autotools-dev, libssl-dev
-Standards-Version: 3.8.4
-Homepage: http://www.thc.org/thc-amap/
-Vcs-Git: ssh://git@git.kali.org/packages/amap.git
+Priority: optional
+Maintainer: Kali Developers <devel@kali.org>
+Uploaders: Raphaël Hertzog <hertzog@debian.org>
+Build-Depends: debhelper (>= 11), libssl-dev, libpcre3-dev
+Standards-Version: 4.2.0
+Homepage: http://www.thc.org
+Vcs-Git: git://git.kali.org/packages/amap.git
 Vcs-Browser: http://git.kali.org/gitweb/?p=packages/amap.git;a=summary
 
 Package: amap
