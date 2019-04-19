@@ -6,8 +6,8 @@ Uploaders: Raphaël Hertzog <hertzog@debian.org>
 Build-Depends: debhelper (>= 11), libssl-dev, libpcre3-dev
 Standards-Version: 4.2.0
 Homepage: http://www.thc.org
-Vcs-Git: git://git.kali.org/packages/amap.git
-Vcs-Browser: http://git.kali.org/gitweb/?p=packages/amap.git;a=summary
+Vcs-Git: https://gitlab.com/kalilinux/packages/amap.git
+Vcs-Browser: https://gitlab.com/kalilinux/packages/amap
 
 Package: amap
 Architecture: any
