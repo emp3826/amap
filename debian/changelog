@@ -1,3 +1,19 @@
+amap (5.4-4kali2) kali-dev; urgency=medium
+
+  [ Raphaël Hertzog ]
+  * Update Vcs-* fields for the move to gitlab.com
+  * Add GitLab's CI configuration file
+  * Configure git-buildpackage for Kali
+  * Update URL in GitLab's CI configuration file
+
+  [ Kali Janitor ]
+  * Use secure copyright file specification URI.
+  * Use secure URI in Homepage field.
+  * Set debhelper-compat version in Build-Depends.
+  * Update standards version to 4.2.1, no changes needed.
+
+ -- Sophie Brun <sophie@offensive-security.com>  Wed, 30 Sep 2020 09:56:38 +0200
+
 amap (5.4-4kali1) kali-dev; urgency=medium
 
   * Add kali marker to the version string.
